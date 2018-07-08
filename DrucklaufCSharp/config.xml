@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
+
+<configDrucklauf>
+	<DB1ConnectionString>
+		<!-- Data Source=S-DB01;Initial Catalog=Orderman_Daten;Persist Security Info=True;User ID=sa;Password=28Kunubo#01 -->
+    Data Source=SNOGARD-PC;Initial Catalog=Orderman_Daten;Persist Security Info=True;User ID=sa;Password=*Sabine11#;
+  </DB1ConnectionString>
+	<DB3ConnectionString>
+    <!-- Data Source=S-DB03;Initial Catalog=Orderman_Daten;Persist Security Info=True;User ID=sa;Password=28Kunubo#01 -->
+    Data Source=SNOGARD-PC;Initial Catalog=Orderman_Daten;Persist Security Info=True;User ID=sa;Password=*Sabine11#;
+  </DB3ConnectionString>
+	<TargetPath>
+		c:\temp
+	</TargetPath>
+</configDrucklauf>
